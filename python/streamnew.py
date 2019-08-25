@@ -46,10 +46,10 @@ def streaming(keyword):
     global db
     
     #consumer key, consumer secret, access token, access secret.
-    consumer_key = "yzcqdp3QZmKQrrZfNNTmozUQb"
-    consumer_secret = "3hVqVKHgP10SBhNSlcRAY5na6nBpQco5MqkhaK9ajUpHO1WIq0"
-    access_token = "1085530428063150080-6zJrB79K09jQFgQ34NtmDZRHMIaoJM"
-    access_secret = "ETRshaLITFSEKIhlfFwcpVF8daO1EDJHEAPAQ5bh1NxVZ"
+    consumer_key = ""
+    consumer_secret = ""
+    access_token = ""
+    access_secret = ""
 
     #Authenticate the app using Twitter API key and secret
 
